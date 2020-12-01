@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/andys_react_profile/static/js/main.b8827686.chunk.js",
+    "main.js.map": "/andys_react_profile/static/js/main.b8827686.chunk.js.map",
+    "runtime-main.js": "/andys_react_profile/static/js/runtime-main.a28c6893.js",
+    "runtime-main.js.map": "/andys_react_profile/static/js/runtime-main.a28c6893.js.map",
+    "static/css/2.43b2b750.chunk.css": "/andys_react_profile/static/css/2.43b2b750.chunk.css",
+    "static/js/2.688e5376.chunk.js": "/andys_react_profile/static/js/2.688e5376.chunk.js",
+    "static/js/2.688e5376.chunk.js.map": "/andys_react_profile/static/js/2.688e5376.chunk.js.map",
+    "index.html": "/andys_react_profile/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/andys_react_profile/static/css/2.43b2b750.chunk.css.map",
+    "static/js/2.688e5376.chunk.js.LICENSE.txt": "/andys_react_profile/static/js/2.688e5376.chunk.js.LICENSE.txt",
+    "static/media/benchWork.ddf61c14.jpg": "/andys_react_profile/static/media/benchWork.ddf61c14.jpg",
+    "static/media/laptopGirl.f46f078d.jpg": "/andys_react_profile/static/media/laptopGirl.f46f078d.jpg",
+    "static/media/laptopHome.fcf7c799.jpg": "/andys_react_profile/static/media/laptopHome.fcf7c799.jpg",
+    "static/media/me.de8fac60.jpeg": "/andys_react_profile/static/media/me.de8fac60.jpeg",
+    "static/media/washington_trip.52f94072.jpeg": "/andys_react_profile/static/media/washington_trip.52f94072.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a28c6893.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.688e5376.chunk.js",
+    "static/js/main.b8827686.chunk.js"
+  ]
+}
