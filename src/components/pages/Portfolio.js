@@ -46,7 +46,7 @@ function Portfolio() {
       </div>
       <div className="col-md-6 col-lg-3 mt-5 mx-3">
         <div className="card">
-          <img src={benchWork} className="card-img-top" alt="Girl using an iPad"></img>
+          <img src={laptopHome} className="card-img-top" alt="Girl using an iPad"></img>
           <div className="card-body">
             <h5 className="card-title">Colorado National Parks</h5>
             <p className="card-text"> This is a collaborative project. We used a mix of API's, JSON, HTML, Bootstrap, and JavaScript to create this site.</p>

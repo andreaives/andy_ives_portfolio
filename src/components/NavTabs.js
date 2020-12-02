@@ -9,7 +9,8 @@ function NavTabs() {
   return (
   
     <div class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="index.html">Andy Ives</a>
+     <Link to="/" className={location.pathname === "/" ? "nav-link active" : "nav-link"}>
+          Andy Ives </Link>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
     </button>
